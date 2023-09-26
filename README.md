@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is Nabil Ahmad and I'm a Freelance Wordpress developer, from Pakistan</h2>
+🏆 Top Rated Seller on Upwork & Fiverr</br>
+💎 Worked with Top companies</br>
+💻 7+ years in Website Design & Development</br>
+📈 Digital Marketing + Advertising</br>
+
+<h3 align="left">👋 Hi there! I'm Nabil Ahmad, a skilled Full Stack WordPress developer and Digital Marketing Professional dedicated to creating high-quality, effective websites that deliver results.</h3>
+
+I focus on understanding your unique business goals, communicating clearly every step of the way, and delivering on time. The end result is a website that looks stunning, functions flawlessly, and generates results.
+
+If you're looking for a skilled and reliable WordPress expert who can take your website to the next level, I'm here to help. Let's chat about bringing your vision to life! You can trust me to handle your project with care. </br></br>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -34,11 +44,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabilahmadofficial&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabilahmadofficial&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/nabilahmadofficial/nabilahmadofficial/output/snake.svg" alt="Snake animation" />
-
-###
