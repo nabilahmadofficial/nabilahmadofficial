@@ -41,7 +41,4 @@ If you're looking for a skilled and reliable WordPress expert who can take your 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilahmadofficial&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<br>
